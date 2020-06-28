@@ -8,7 +8,7 @@ This data is applied in [**AMiner COVID-19 Dashboard**](https://covid-dashboard.
 
 The epidemic data and events data are integrated from several data sources. A full list of data sources is listed below.
 
-Download Links: [Epimemic Data](https://covid-dashboard.aminer.cn/api/dist/epidemic/epidemic.zip), [Events Data](https://covid-dashboard.aminer.cn/api/dist/events/events.zip). To view previously published data, refer to [*changelog*](./changelog) for more data links.
+Download Links: [Epimemic Data](https://covid-dashboard.aminer.cn/api/dist/acod/epidemic/epidemic.zip), [Events Data](https://covid-dashboard.aminer.cn/api/dist/acod/events/events.zip). To view previously published data, refer to [*changelog*](./changelog) for more data links.
 
 ## Data Description
 
