@@ -1,0 +1,41 @@
+2020-06-28
+---CHANGES---
+
+No major changes.
+
+
+---SUMMARY---
+
+Epidemic Data: 1048 regions in total.
+  Countries and Territories (Level 1): 202
+  Provinces (Level 2): 444
+    Australia: 9
+    Canada: 13
+    China: 34
+    France: 16
+    Germany: 16
+    Iran: 31
+    Italy: 19
+    Japan: 46
+    Netherlands: 1
+    Saint Barthelemy: 1
+    South Korea: 17
+    Spain: 19
+    United Kingdom: 171
+    United States of America: 51
+  Counties (Level 3): 402
+    China: 402
+
+Events Data: 24589 in total.
+  Social News: 21479
+    English: 11853
+    Chinese: 9626
+  Academic Progress: 3110
+    Research Paper: 2065
+    Academic Activity: 699
+    Expert Opinion: 346
+
+---DOWNLOAD LINKS---
+
+Epidemic Data: https://covid-dashboard.aminer.cn/api/dist/acod/epidemic/archived/2020-06-28-epidemic.zip
+Events Data: https://covid-dashboard.aminer.cn/api/dist/acod/events/archived/2020-06-28-events.zip
