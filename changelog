@@ -26,10 +26,10 @@ Epidemic Data: 1048 regions in total.
   Counties (Level 3): 402
     China: 402
 
-Events Data: 24838 in total.
-  Social News: 21718
+Events Data: 24843 in total.
+  Social News: 21723
     English: 11938
-    Chinese: 9780
+    Chinese: 9785
   Academic Progress: 3120
     Research Paper: 2075
     Academic Activity: 699
@@ -39,6 +39,49 @@ Events Data: 24838 in total.
 
 Epidemic Data: https://covid-dashboard.aminer.cn/api/dist/acod/epidemic/archived/2020-06-29-epidemic.zip
 Events Data: https://covid-dashboard.aminer.cn/api/dist/acod/events/archived/2020-06-29-events.zip
+
+---------------------------
+2020-06-28
+---CHANGES---
+
+No major changes.
+
+
+---DOWNLOAD LINKS---
+
+Epidemic Data: https://covid-dashboard.aminer.cn/api/dist/acod/epidemic/archived/2020-06-28-epidemic.zip
+Events Data: https://covid-dashboard.aminer.cn/api/dist/acod/events/archived/2020-06-28-events.zip
+---SUMMARY---
+
+Epidemic Data: 1048 regions in total.
+  Countries and Territories (Level 1): 202
+  Provinces (Level 2): 444
+    Australia: 9
+    Canada: 13
+    China: 34
+    France: 16
+    Germany: 16
+    Iran: 31
+    Italy: 19
+    Japan: 46
+    Netherlands: 1
+    Saint Barthelemy: 1
+    South Korea: 17
+    Spain: 19
+    United Kingdom: 171
+    United States of America: 51
+  Counties (Level 3): 402
+    China: 402
+
+Events Data: 24589 in total.
+  Social News: 21479
+    English: 11853
+    Chinese: 9626
+  Academic Progress: 3110
+    Research Paper: 2065
+    Academic Activity: 699
+    Expert Opinion: 346
+
 
 ---------------------------
 2020-06-28
